@@ -3,7 +3,7 @@ title: "Bio"
 ---
 
 ::: {layout-ncol="2"}
-![](images/foto1.jpg){width="20%"}
+![](images/foto2.jpg){width="20%"}
 
 
 I am a political scientist working in the areas of Decentralization, and Local Government, and Public Policy. I am an Assistant Professor at the Universidade de Aveiro, a member of the research unit on Governance, Competitiveness, and Public Policies (GOVCOPP), and Director of the Master in Public Administration annd Public Policy. 
