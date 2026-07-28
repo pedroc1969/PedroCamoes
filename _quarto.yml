@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: [sandstone, _variables.scss]
+    theme: [brand]
     css: styles.css
     toc: true
 
