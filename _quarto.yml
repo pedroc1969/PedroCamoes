@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: [cosmo, brand]
+    theme: [brand]
     css: styles.css
     toc: true
 
