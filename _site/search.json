@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other projects",
+    "section": "",
+    "text": "Describe other projects\n\nconsultancy"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bio",
+    "section": "",
+    "text": "I’m an environmental technologist, working at the US Geological Survey on improving how we deliver water data to the public. In prior roles, I split my time between predictive modeling (to monitor forest carbon sequestration across New York State, track the development of early-successional forests, and more) and visualization (including using game engines as a GIS and making it easier to make reproducible VR environments for research). By training I’m either an ecologist (specializing in landscape and translational ecology) or environmental scientist; professionally, I’ve worked as a data analyst, software engineer, and chicken farmer.\n\n\n\n\nOn this site I keep a list of my publications, presentations, and my CV, as well as a technical blog.\n\n\n\nORCID\nIDEAGOV member"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My courses\n\ngraduate\nwritings"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Broad Research Interests\n\nFiscal decentralization\n\nFinancial Dependency\n\nIncreasing financial dependency across countries Empirical Analysis of the Increase of Financial Dependency Across Countries\nhttps://github.com/pedroc1969/FinancialDependency/tree/main\n\n\nService delivery at the local government\n\nSelected Publications\nMy research\n\npublished papers\nworking papers\nwritings\n\nPaper on the"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "What matters",
+    "section": "",
+    "text": "About some books i liked"
+  },
+  {
+    "objectID": "Ped/about.html",
+    "href": "Ped/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Ped/index.html",
+    "href": "Ped/index.html",
+    "title": "Pedro J. Camões",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

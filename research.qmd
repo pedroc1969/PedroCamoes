@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+**Broad Research Interests**
+
+1.  Fiscal decentralization
+
+    -   [Financial Dependency](https://github.com/pedroc1969/FinancialDependency/tree/main)
+        -   Increasing financial dependency across countries Empirical Analysis of the Increase of Financial Dependency Across Countries
+        -   https://github.com/pedroc1969/FinancialDependency/tree/main
+
+2.  Service delivery at the local government
+
+**Selected Publications**
+
+My research
+
+-  published papers
+-  working papers
+-  writings
+
+Paper on the
