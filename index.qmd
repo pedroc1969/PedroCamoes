@@ -1,15 +1,25 @@
 ---
-title: "Bio"
+title: ""
+image: images/foto.png
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin    
+      url: "www.linkedin.com/in/pedro-j-camões-862016b9"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/pedroc1969"
+    - text: Email
+      icon: Email
+      url: "mailto:pedrojcamoes@gmail.com"
+    - text: CV
+      url: "https://www.dropbox.com/scl/fi/r1114amk4v4bii59f6etc/cv_Apr26.pdf?rlkey=ab2sypln7zltmrofgfhlbgqpv&st=28qjnk5w&dl=0"
+comments: false
 ---
 
-::: {layout-ncol="2"}
-![](images/foto.png){width="20%"}
-
-
-I am a political scientist working in the areas of Decentralization, Local Government, and Public Policy. I am an Assistant Professor at the Universidade de Aveiro, a member of the research unit on Governance, Competitiveness, and Public Policies (GOVCOPP), and Director of the Master in Public Administration annd Public Policy. 
-
-[ORCID](https://orcid.org/0000-0003-2294-1488) 
+I am a political scientist working in the areas of Decentralization, and Local Government, and Public Policy. I am an Assistant Professor at the Universidade de Aveiro, a member of the research unit on Governance, Competitiveness, and Public Policies (GOVCOPP), and Director of the Master in Public Administration annd Public Policy. 
 
 On this site I keep a list of my publications, presentations, and my CV.
 
-[IDEAGOV member](https://www.ideagov.eu/people)
+
