@@ -12,9 +12,12 @@ about:
       url: "https://github.com/pedroc1969"
     - text: Email
       icon: Email
+      url: "mailto:pjcamoes@ua.pt"
+    - text: Personal Email
+      icon: Email
       url: "mailto:pedrojcamoes@gmail.com"
     - text: CV
-      url: "https://www.dropbox.com/scl/fi/r1114amk4v4bii59f6etc/cv_Apr26.pdf?rlkey=ab2sypln7zltmrofgfhlbgqpv&st=28qjnk5w&dl=0"
+      url: "cv.pdf"
 comments: false
 ---
 
