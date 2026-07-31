@@ -17,7 +17,7 @@ I do research in the areas of Decentralization, Local Government, and Public Pol
 
 1.  Fiscal decentralization
 
-    -   [Financial Dependency](https://github.com/pedroc1969/FinancialDependency/tree/main)
+    -   [Financial Dependency](https://github.com/pedroc1969/FinancialDependency)
         -   Increasing financial dependency across countries Empirical Analysis of the Increase of Financial Dependency Across Countries
         
 2.  Service delivery at the local government
