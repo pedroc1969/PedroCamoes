@@ -19,9 +19,13 @@ I do research in the areas of Decentralization, Local Government, and Public Pol
 
     -   [Financial Dependency](https://github.com/pedroc1969/FinancialDependency/tree/main)
         -   Increasing financial dependency across countries Empirical Analysis of the Increase of Financial Dependency Across Countries
-        -   https://github.com/pedroc1969/FinancialDependency/tree/main
-
+        
 2.  Service delivery at the local government
+
+    -   [Local Service Delivery ](https://github.com/pedroc1969/PortServDeliver)
+        -   Paper: “Still Changing After All These Years”: A Dynamic Analysis of Portuguese Local Government Service Delivery Choices (1999-2025)
+        -   Abstract: This paper revisits Portuguese municipal corporatization as a dynamic delegation choice rather than a one-off shift from bureaucracy to corporation. Using a municipality-service-cohort panel for 278 mainland municipalities from 1999 to 2025, organized into nine three-year cohorts, it examines when local governments use municipally owned corporations, when they enter or exit corporatized provision, and how the 2012 legal-fiscal tightening reshaped those choices. The evidence shows that corporatization expanded through the late 2000s, narrowed after reform, and became increasingly concentrated in infrastructure and utility-like services. Fixed-effects status, entry, and exit models support a revised political transaction-cost account. Asset specificity is the most robust service predictor, while measurability operates less consistently than standard monitoring arguments imply. The strongest regularity is own-service persistence: once a service is corporatized, it tends to remain so, whereas cross-service spillovers are weak. Fiscal conditions matter more than partisan control, and exits are largely selective rather than random.
+
 
 **Selected Publications**
 
