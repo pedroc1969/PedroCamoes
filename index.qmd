@@ -10,6 +10,9 @@ about:
     - text: GitHub
       icon: github
       url: "https://github.com/pedroc1969"
+    - text: Substack
+      icon: substack
+      url: "https://substack.com/@pedrocames"
     - text: Email
       icon: Email
       url: "mailto:pjcamoes@ua.pt"
